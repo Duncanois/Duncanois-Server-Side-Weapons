@@ -1,0 +1,9 @@
+<Duncanois>	
+<append xpath="/progression/crafting_skills/crafting_skill[@name='craftingMachineGuns']/display_entry[@item='gunMGT3M60']">
+		<unlock_entry item="gunAssaultFLATac" unlock_tier="1" tags="gunAssaultFLATac"/>
+	</append>
+	<append xpath="/progression/crafting_skills/crafting_skill[@name='craftingMachineGuns']/effect_group">
+		<passive_effect name="RecipeTagUnlocked" operation="base_set" level="61,100" value="1" tags="gunAssaultFLATac"/>
+		<passive_effect name="CraftingTier" operation="base_add" level="68,76,84,92,100" value="1,2,3,4,5" tags="gunAssaultFLATac"/>
+	</append>
+</Duncanois>	

@@ -1,0 +1,3 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,german,spanish,french,italian,japanese,koreana,polish,brazilian,russian,turkish,schinese,tchinese
+gunAssaultFLATac,items,Gun,,,FLA Battle Rifle,,,,,,,,,,,,,
+gunAssaultFLATacDesc,items,Gun,,,"A heavy battle rifle, the FLA is the heavier-hitting alternative to the Tactial Assault Rifle. Featuring extremely high damage compared to an M60, the downside is that this rifle only comes with 20 round mags by default as well as a slower rate of fire than the Tactical Assault Rifle.",,,,,,,,,,,,,

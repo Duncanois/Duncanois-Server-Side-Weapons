@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+		<Name value="DuncanoisServerSideWeapons" />
+		<DisplayName value="Duncanois Server Side Only Weapons"/>
+		<Description value="Adds in weapons that are only required by the server. Clients can connect without needing to have the mod installed."/>
+		<Author value="Duncanois" />
+		<Version value="1.0.0" />
+</xml>
